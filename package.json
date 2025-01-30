@@ -1,0 +1,20 @@
+{
+  "name": "yt-telegram",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "youtube-downloader",
+    "ytdl-core",
+    "bot telegram"
+  ],
+  "author": "Ndaa",
+  "license": "MIT",
+  "description": "Youtube downloader using bot telegram",
+  "dependencies": {
+    "@distube/ytdl-core": "^4.16.0",
+    "node-telegram-bot-api": "^0.66.0"
+  }
+}
