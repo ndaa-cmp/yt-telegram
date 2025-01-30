@@ -34,7 +34,7 @@ npm install node-telegram-bot-api @distube/ytdl-core
 
 3. Setup konfigurasi:
    - Buat file `cookies.json`
-   - Buat file `.env` untuk token bot (opsional)
+   - Buat file `config.js` untuk token bot (opsional)
 
 ## 🍪 Cara Mendapatkan Cookie YouTube
 ## Menggunakan Extension
